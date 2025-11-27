@@ -84,12 +84,16 @@ Calculation:
 ![12](https://github.com/user-attachments/assets/2b59487d-6d01-413e-87a0-b5f776150ea7)
 
 Open circuit characteristics
+!<img width="1364" height="837" alt="2" src="https://github.com/user-attachments/assets/13e21d71-b2b9-4c14-951f-8567a43ccd70" />
 ![6](https://github.com/user-attachments/assets/7085d5a0-1177-4b30-a313-3839a9dd2ac0)
+
 [Virtual Labs-exp 2.pdf](https://github.com/user-attachments/files/23778242/Virtual.Labs-exp.2.pdf)
 
   It is also known as Magnetisation charactersitics or no load characteristics.It is a graph drawn between open circuit voltage(Eo) and field current(IF).
 
 Load Characteristics:
+<img width="919" height="866" alt="1" src="https://github.com/user-attachments/assets/3d28baed-6086-4c2f-8267-41fd892c6e4f" />
+
  ![7](https://github.com/user-attachments/assets/b687324f-2e6e-47d7-ba1e-238526222e77)
 [Virtual Labs-2.pdf](https://github.com/user-attachments/files/23778244/Virtual.Labs-2.pdf)
 
